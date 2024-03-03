@@ -1,6 +1,9 @@
 package main
 
-func main() {
+import "fmt"
 
-	print("some")
+func main() {
+	fmt.Print("some")
+
+	fmt.Print("some 2")
 }
